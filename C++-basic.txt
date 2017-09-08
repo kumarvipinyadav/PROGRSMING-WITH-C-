@@ -1,0 +1,18 @@
+What is C++ ?
+        C++ is supperset of C. it's like C with extension of OOP,It was doveloped by 
+        BJARNE STROUSTRUP in 1980 in AT and T BELL lab. its aim is to making complex progrems easier to write,
+        the name C++ is comes from combining C and increment operator ++ indecating  devlopment of C.
+
+We will lear compleat C++ here but before we will  start we will disscuse there name .
+1  . Data Hiding / Security
+2  . Data Encapsulation
+3  . Class /Opject
+4  . Inheritance
+5  . Reusability
+6  . Polymorphism and Overloading
+7  . Overloading Function
+8  . Attribute
+9  . Method
+10 . Data Abstraction
+11 . Dynamic Binding
+12 . message Passing
