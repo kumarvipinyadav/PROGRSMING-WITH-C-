@@ -16,3 +16,6 @@ We will lear compleat C++ here but before we will  start we will disscuse there 
 10 . Data Abstraction
 11 . Dynamic Binding
 12 . message Passing
+
+We do not waste our time in studying diffrence between C and C++ ,
+you will auto judge that while you learn.
